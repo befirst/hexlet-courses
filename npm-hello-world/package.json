@@ -1,0 +1,15 @@
+{
+  "name": "npm-hello-world",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Homework project for the nmp hexlet lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Arkhireev",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
